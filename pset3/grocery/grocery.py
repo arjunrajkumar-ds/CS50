@@ -36,4 +36,3 @@ def main():
         print(f"{unsorted[i]} {i}")
 
 main()
-
